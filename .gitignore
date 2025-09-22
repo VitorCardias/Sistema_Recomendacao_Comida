@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes Virtuais
+venv/
+env/
+.env
+
+# Arquivos de dados (se você os tiver localmente)
+data/
+*.csv
